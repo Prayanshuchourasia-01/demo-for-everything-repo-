@@ -1,0 +1,29 @@
+.box{
+    height: 100px;;
+    width: 100px;
+    background: #000;
+    margin: 10px;
+    color: white;
+    text-align: center;
+    
+}
+.box1{
+    color:hotpink ;
+    background: hotpink;
+}
+.box2{
+    background: royalblue;
+}
+.box3{
+background: crimson;
+}
+
+
+.dark{
+    background: #000;
+    color: white;
+}
+.light{
+    background-color: white;
+    color: #000;
+}
